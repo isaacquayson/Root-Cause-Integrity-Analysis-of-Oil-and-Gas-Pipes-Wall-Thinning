@@ -1,6 +1,6 @@
 # Root-Cause-Integrity-Analysis-of-Oil-and-Gas-Pipes-Wall-Thinning
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](https://github.com/isaacquayson/Root-Cause-Integrity-Analysis-of-Oil-and-Gas-Pipes-Wall-Thinning/blob/main/Screenshot%202025-08-09%20160320.png)
 
 ## Overview
 This Power BI dashboard analyzes **wall thickness loss in oil and gas pipelines**, identifying **root causes**, **material degradation trends**, and **corrosion impacts** to support **maintenance and integrity management decisions**.
